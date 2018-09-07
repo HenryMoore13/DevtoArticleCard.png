@@ -1,0 +1,65 @@
+div.head {
+    font-size: 27px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0 0 0 1rem;
+    position: relative;
+    left: 7px;
+    width: 45%;
+}
+img.image {
+    border-radius: 50%;
+    float: left;
+    position: relative;
+    bottom: 6px;
+}
+div.name {
+    padding: 0 0 0 3.3rem;
+    position: relative;
+    left: 5px;
+    bottom: 22px;
+    color: rgb(168, 165, 165);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+div.hashtag {
+    padding: 0 0 0 3.5rem;
+    position: relative;
+    bottom: 33px;
+    color: rgb(34, 34, 34);
+}
+img.heart {
+    position: relative;
+    bottom: 4px;
+    left: 10px;
+}
+img.message {
+    position: relative;
+    left: 25px;
+    bottom: 4px;
+}
+a.number1 {
+    position: relative;
+    left: 15px;
+    color: rgb(168, 165, 165);
+    font-size: 15px;
+    bottom: 8px;
+}
+a.number2 {
+    position: relative;
+    left: 30px;
+    color: rgb(168, 165, 165);
+    font-size: 15px;
+    bottom: 8px;
+}
+input.button {
+    position: relative;
+    left: 400px;
+    bottom: 7px;
+    background-color: rgb(49, 67, 167);
+    color: white;
+    width: 4rem;
+    height: 2rem;
+    font-size: 16px;
+    border: none;
+    border-radius: 7%;
+}
